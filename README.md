@@ -91,3 +91,71 @@ ICCV2023-network-structure
     -  IPAI, Seoul National University, Korea
   - **Keywords:** HDR video composition
   - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Chung_LAN-HDR_Luminance-based_Alignment_Network_for_High_Dynamic_Range_Video_Reconstruction_ICCV_2023_paper.pdf), [[code]](https://github.com/haesoochung/LAN-HDR)
+
+[12] **DMNet: Delaunay Meshing Network for 3D Shape Representation**  
+  - **Authors:** Chen Zhang, Ganzhangqin Yuan, Wenbing Tao
+  - **Affiliations:**
+    -  National Key Laboratory of Science and Technology on Multi-spectral Information Processing,School of Artifical Intelligence and Automation, Huazhong University of Science and Technology, China
+    -  TuKe Research
+  - **Keywords:** 3D Shape Representation,local graph iteration algorithm,Delaunay triangulation
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_DMNet_Delaunay_Meshing_Network_for_3D_Shape_Representation_ICCV_2023_paper.pdf), [code]
+
+[12] **PanFlowNet: A Flow-Based Deep Network for Pan-Sharpening**  
+  - **Authors:** Gang Yang, Xiangyong Cao, Wenzhe Xiao, Man Zhou, Aiping Liu, Xun Chen, Deyu Meng
+  - **Affiliations:**
+    -  University of Science and Technology of China
+    -  Xi’an Jiaotong University
+    -  Nanyang Technological University
+  - **Keywords:** LRMS,Pan-sharpening
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_PanFlowNet_A_Flow-Based_Deep_Network_for_Pan-Sharpening_ICCV_2023_paper.pdf), [[code]](https://github.com/yggame/PanFlowNet)
+
+[13] **Distilled Reverse Attention Network for Open-world Compositional Zero-Shot Learning**  
+  - **Authors:** Yun Li, Zhe Liu, Saurav Jha, Lina Yao
+  - **Affiliations:**
+    -  CSIRO Data61
+    -   University of New South Wales
+  - **Keywords:** Open-World Compositional Zero-Shot Learning
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Distilled_Reverse_Attention_Network_for_Open-world_Compositional_Zero-Shot_Learning_ICCV_2023_paper.html), [code]
+
+[14] **Learned Image Reasoning Prior Penetrates Deep Unfolding Network for Panchromatic and Multi-spectral Image Fusion**  
+  - **Authors:** Man Zhou, Jie Huang, Naishan Zheng, Chongyi Li
+  - **Affiliations:**
+    -  S-Lab, Nanyang Technological University, Singapore
+    -  University of Science and Technology of China, China
+    -  Nankai University, China
+  - **Keywords:** pan-sharpening
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_Learned_Image_Reasoning_Prior_Penetrates_Deep_Unfolding_Network_for_Panchromatic_ICCV_2023_paper.pdf), [code]
+
+[15] **Focal Network for Image Restoration**  
+  - **Authors:** Yuning Cui, Wenqi Ren, Xiaochun Cao, Alois Knoll
+  - **Affiliations:**
+    -  Technical University of Munich
+    -  Shenzhen Campus of Sun Yat-sen University
+  - **Keywords:** Image restoration,single-image defocus deblurring,image dehazing,image desnowing
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Cui_Focal_Network_for_Image_Restoration_ICCV_2023_paper.pdf), [[code]](https://github.com/c-yn/FocalNet)
+
+[16] **Dynamic Hyperbolic Attention Network for Fine Hand-object Reconstruction**  
+  - **Authors:** Zhiying Leng, Shun-Cheng Wu, Mahdi Saleh, Antonio Montanaro, Hao Yu, Yin Wang, Nassir Navab, Xiaohui Liang, Federico Tombari
+  - **Affiliations:**
+    -  State Key Laboratory of Virtual Reality Technology and Systems, Beihang University, China
+    -  Computer Aided Medical Procedures, Technical University of Munich, Germany
+    -  Politecnico di Torino, Italy
+    -  Zhongguancun Laboratory, Beijing, China
+  - **Keywords:** hyperbolic space, hand-object reconstruction
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Leng_Dynamic_Hyperbolic_Attention_Network_for_Fine_Hand-object_Reconstruction_ICCV_2023_paper.pdf), [code]
+
+[17] **Re:PolyWorld - A Graph Neural Network for Polygonal Scene Parsing**  
+  - **Authors:** Stefano Zorzi, Friedrich Fraundorfer
+  - **Affiliations:**
+    -  Graz University of Technology
+  - **Keywords:** instance segmentation
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zorzi_RePolyWorld_-_A_Graph_Neural_Network_for_Polygonal_Scene_Parsing_ICCV_2023_paper.pdf), [code]
+
+[18] **SVQNet: Sparse Voxel-Adjacent Query Network for 4D Spatio-Temporal LiDAR Semantic Segmentation**  
+  - **Authors:** Xuechao Chen, Shuangjie Xu, Xiaoyi Zou, Tongyi Cao, Dit-Yan Yeung, Lu Fang
+  - **Affiliations:**
+    -  Tsinghua University
+    -  Hong Kong University of Science and Technology
+    -  Deeproute.ai
+  - **Keywords:** semantic perception
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_SVQNet_Sparse_Voxel-Adjacent_Query_Network_for_4D_Spatio-Temporal_LiDAR_Semantic_ICCV_2023_paper.pdf), [code]
