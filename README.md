@@ -159,3 +159,13 @@ ICCV2023-network-structure
     -  Deeproute.ai
   - **Keywords:** semantic perception
   - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_SVQNet_Sparse_Voxel-Adjacent_Query_Network_for_4D_Spatio-Temporal_LiDAR_Semantic_ICCV_2023_paper.pdf), [code]
+
+[19] **Rethinking Mobile Block for Efficient Attention-based Models**  
+  - **Authors:** iangning Zhang, Xiangtai Li, Jian Li, Liang Liu, Zhucun Xue, Boshen Zhang, Zhengkai Jiang, Tianxin Huang, Yabiao Wang, Chengjie Wang
+  - **Affiliations:**
+    -  Youtu Lab, Tencent
+    -  Zhejiang University
+    -  Peking University
+    -  Wuhan University
+  - **Keywords:** Inverted Residual Block,Transformer
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Rethinking_Mobile_Block_for_Efficient_Attention-based_Models_ICCV_2023_paper.pdf), [[code]](https://github.com/zhangzjn/EMO)
